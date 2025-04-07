@@ -1,0 +1,70 @@
+repo_url: https://github.com/UnBArqDsw2025-1-Turma01/2025.1-T01-_G4_QuemFazNiver_GostaDe_Entrega_01
+repo_name: 2025.1-QuemFazNiver_GostaDe_
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+site_name: Quem faz Niver!
+nav:
+  - Home: index.md
+  - Planejamento:
+  - Desing Sprint:
+    - Primeira Etapa:
+    - Segunda Etapa:
+    - Terceira Etapa:
+    - Quarta Etapa: 
+    - Quinta Etapa:
+  - Artefatos Generalista:
+    - 5W2W:
+    - Causa e efeito:
+    - Léxico:
+    - Mapa mental:
+    - Rich Picture:
+  - Modelagem BPMN:
+    - Metodologia:
+    - Modelo BPMN:
+  - Participações:
+    - Quadro de participações:
+      - Desing Sprint:
+      - Artefatos Generalistas:
+      - Modelagem BPMN:
+    - Relato de participação:
+  - Iniciativas Extras:
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
+
+  language: pt-BR
+  favicon: 
+  logo: assets/icon.PNG
