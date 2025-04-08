@@ -33,6 +33,5 @@ jobs:
           git config --global user.name "Your Name"
 
       - name: Deploy to deploy-docs branch
-        run: npm run deploy
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx gh-pages -d dist -b deploy-docs -r https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
