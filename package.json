@@ -1,0 +1,14 @@
+{
+    "name": "docsify-project",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "docsify generate docs -o dist",
+      "deploy": "gh-pages -d dist -b deploy-docs -r https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+    },
+    "dependencies": {
+      "docsify-cli": "^4",
+      "docsify": "^4.13.1",
+      "gh-pages": "^6"
+    }
+  }
+  
