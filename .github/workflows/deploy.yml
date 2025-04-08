@@ -11,28 +11,27 @@ permissions:
 jobs:
   deploy-docs:
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout do código
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Configurar Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           check-latest: true
 
-      # Instalar dependências
       - name: Install dependencies
         run: npm install
-
-      # Build da documentação
+      
       - name: Build documentation
         run: npm run build
 
-      # Deploy para branch deploy-docs
+      - name: Configure Git user
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+
       - name: Deploy to deploy-docs branch
         run: npm run deploy
         env:
