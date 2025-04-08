@@ -2,8 +2,8 @@
     "name": "docsify-project",
     "version": "1.0.0",
     "scripts": {
-      "build": "rm -f docs/_sidebar.md && docsify generate docs",
-      "deploy": "gh-pages -d dist -b deploy-docs -r https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+    "build": "rm -f docs/_sidebar.md && docsify generate docs && mkdir -p dist && cp -r docs/* dist/",
+    "deploy": "gh-pages -d dist -b deploy-docs -r https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git"
     },
     "dependencies": {
       "docsify-cli": "^4",
