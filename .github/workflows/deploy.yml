@@ -1,4 +1,4 @@
-name: Deploy Docsify
+name: Deploy to deploy-docs Branch
 
 on:
   push:
@@ -9,31 +9,31 @@ permissions:
   contents: write
 
 jobs:
-  deploy:
+  deploy-docs:
     runs-on: ubuntu-latest
 
     steps:
       # Checkout do código
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # Configurar o Node.js
-      - uses: actions/setup-node@v3
+      # Configurar Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '20'
+          cache: 'npm'
 
-      # Instalar dependências com npm
-      - run: npm install
+      # Instalar dependências
+      - name: Install dependencies
+        run: npm install
 
-      # Validar se a documentação está gerada
-      - run: npm run build
+      # Build da documentação
+      - name: Build documentation
+        run: npm run build
 
-      # Deploy para o GitHub Pages na branch deploy-docs
-      - run: |
-          npm run deploy
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git checkout -b deploy-docs
-          git add .
-          git commit -m "Deploy docs to deploy-docs branch"
-          git push --force origin deploy-docs
+      # Deploy para branch deploy-docs
+      - name: Deploy to deploy-docs branch
+        run: npm run deploy
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
