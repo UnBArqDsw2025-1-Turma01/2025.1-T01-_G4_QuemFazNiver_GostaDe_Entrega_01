@@ -13,7 +13,7 @@
     - [**1.2. Artefato Generalista**](/docs/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 5W2H](/docs/Base/1.2.1ArtefatoGeneralista.md)
       - [1.2.2 Causa e efeito](/docs/Base/1.2.2ArtefatoGeneralista.md)
-      - [1.2.3 Léxico](/docs/Base/1.2.3ArtefatoGeneralista.md)
+      - [1.2.3 Léxico](/Base/lexico.md)
       - [1.2.4 Mapa mental](/docs/Base/1.2.4ArtefatoGeneralista.md)
       - [1.2.5 Rich picture](/docs/Base/1.2.5ArtefatoGeneralista.md)
     - [**1.3. Modelagem BPMN**](/docs/Base/1.3.ModelagemBPMN.md)
