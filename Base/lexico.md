@@ -23,6 +23,9 @@
 | Objeto          | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto                   |
 | Estado          | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve |
 </center>
+
+<center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> </center>
+
 <br>
 
 <center>
@@ -38,7 +41,7 @@
 
 </center>
 
-<center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
+<center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>, <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a> </center>
 
 <br>
 
