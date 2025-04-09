@@ -51,15 +51,15 @@
 
 <br>
 
-### L01: Criação de Lista de Presentes Virtuais
-<center><p>Tabela 3: Léxico 01 - Criação de Lista de Presentes Virtuais (L01)</p> 
+### L01: Organização de Festa
+<center><p>Tabela 3: Léxico 01 - Organização de Festa  (L01)</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
-| **Classificação**  | Verbo                                                                                       |
-| **Impacto**        | O usuário cria uma lista de presentes virtuais, podendo adicionar produtos e contribuições financeiras. A lista é acessível para compartilhamento com convidados e outras funcionalidades associadas. |
-| **Noção**          | Ação realizada pelo usuário no aplicativo da Caesb. Ocorre quando ele seleciona um imóvel, filtra as contas e escolhe uma para emitir a segunda via. |
-| **Dicionário**     |Criar lista de presentes, adicionar itens à lista, gerar lista de presentes virtuais.                    |  
+| **Classificação**  | Objeto                                                                                      |
+| **Impacto**        | Os interessados no evento (aniversariante, convidados, organizadores) contribuem para a organização de uma festa, com foco em entender preferências e necessidades. |
+| **Noção**          | O evento de organizar festas, onde cada ator (interessado, convidado, aniversariante) tem um papel específico. |
+| **Dicionário**     |	Organizar festa, agendar evento, convidar pessoas, preferências do aniversariante, agenda de convidados.                   |  
 
 </center> 
 
@@ -67,15 +67,15 @@
                                                   
 <br>
 
-### L02: Comunicação e Compartilhamento
-<center><p>Tabela 4: Léxico 02 - Comunicação e Compartilhamento (L02)</p> 
+### L02: Descobertas e Focos
+<center><p>Tabela 4: Léxico 02 - Descobertas e Focos (L02)</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
 | **Classificação**  | Verbo                                                                                       |
-| **Impacto**        | O usuário compartilha as informações do evento com os convidados por meio de plataformas como WhatsApp, e-mail ou outras opções. |
-| **Noção**          | Ação realizada pelo usuário ao enviar informações sobre o evento, como data, hora e local, através de canais de comunicação. |
-| **Dicionário**     | Compartilhar informações, enviar convites, notificar convidados.             |  
+| **Impacto**        | A descoberta do perfil do aniversariante e o foco nas preferências, resultando na escolha do local e da agenda para o evento. |
+| **Noção**          | Ação que envolve a coleta de informações do aniversariante e convidados para personalizar a festa. |
+| **Dicionário**     | Descobrir preferências, coletar dados do aniversariante, escolher local de festa.            |  
 
 </center> 
 
@@ -83,15 +83,15 @@
 
 <br>
 
-### L03: Design Responsivo e Acessível
-<center><p>Tabela 5: Léxico 03 - Design Responsivo e Acessível(L03)</p> 
+### L03: Resultado
+<center><p>Tabela 5: Léxico 03 - Resultado(L03)</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
-| **Classificação**  | Objeto                                                                                       |
-| **Impacto**        | O sistema se adapta a diferentes dispositivos (desktop, tablet, smartphone) e é acessível para pessoas com necessidades especiais, garantindo uma experiência de usuário fluida e sem barreiras. |
-| **Noção**          | O sistema responsivo ajusta o layout e as funcionalidades dependendo do dispositivo utilizado, enquanto a acessibilidade garante o uso por todos os tipos de usuários. |
-| **Dicionário**     | Responsividade, acessibilidade, design adaptável, design inclusivo.          |  
+| **Classificação**  | Estado                                                                                       |
+| **Impacto**        | A plataforma web facilita a organização e o acompanhamento da festa, permitindo a criação de um perfil detalhado do aniversariante e a personalização do evento.|
+| **Noção**          | O usuário obtém um resultado concreto no site, onde todas as preferências estão integradas, melhorando a experiência do evento. |
+| **Dicionário**     | 	Plataforma de organização de festas, personalização de eventos, agendamento detalhado.    |  
 
 </center> 
 
@@ -164,3 +164,4 @@
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 08/04/2025 | Criação do artefato e adição dos léxicos 1 ao 3 | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 | `1.1`  | 08/04/2025 | Adição dos léxicos 4 ao 6 e da bibliografia| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
+| `1.2`  | 09/04/2025 |Correção dos Léxicos 1 ao 3|  [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)|
