@@ -52,7 +52,7 @@
 <br>
 
 ### L01: Organização de Festa
-<center><p>Tabela 3: Léxico 01 - Organização de Festa  (L01)</p> 
+<center><p>Tabela 3: Léxico 01 - Organização de Festa </p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@
 <br>
 
 ### L02: Descobertas e Focos
-<center><p>Tabela 4: Léxico 02 - Descobertas e Focos (L02)</p> 
+<center><p>Tabela 4: Léxico 02 - Descobertas e Focos </p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
@@ -84,7 +84,7 @@
 <br>
 
 ### L03: Resultado
-<center><p>Tabela 5: Léxico 03 - Resultado(L03)</p> 
+<center><p>Tabela 5: Léxico 03 - Resultado</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
@@ -100,7 +100,7 @@
 <br>
 
 ### L04: Identificação de Tipos de Evento
-<center><p>Tabela 6: Léxico 04 - Identificação de Tipos de Evento(L04)</p> 
+<center><p>Tabela 6: Léxico 04 - Identificação de Tipos de Evento</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
@@ -116,7 +116,7 @@
 <br>
 
 ### L05: Personalização de Convites
-<center><p>Tabela 7: Léxico 05 - Personalização de Convites(L05)</p> 
+<center><p>Tabela 7: Léxico 05 - Personalização de Convites</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
@@ -132,7 +132,7 @@
 <br>
 
 ### L06: Confirmação de Presença (RSVP)
-<center><p>Tabela 8: Léxico 06 - Confirmação de Presença (RSVP)(L06)</p> 
+<center><p>Tabela 8: Léxico 06 - Confirmação de Presença (RSVP)</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
