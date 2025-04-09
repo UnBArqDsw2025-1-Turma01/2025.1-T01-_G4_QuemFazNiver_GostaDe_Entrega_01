@@ -20,13 +20,13 @@ A construção do Rich Picture teve início com um esboço preliminar, baseado n
 
  <p align="center"> <b>Figura 1.</b> Primeira versão do Rich Picture.
 
- ![Rich Picture versão 1](../assets/Rich_Picture_version1_Mayara.jpeg)
+ ![Rich Picture versão 1](/assets/Rich_Picture_version1_Mayara.png)
  
  <b>Autor(a): </b> Mayara Alves </p>
 
   <p align="center"> <b>Figura 2.</b> Primeira versão do Rich Picture.</p>
 
- ![Rich Picture versão 1](../assets/Rich_Picture_version1_Bruno.jpeg)
+ ![Rich Picture versão 1](/assets/Rich_Picture_version1_Bruno.jpeg)
  
  <b>Autor(a): </b> Bruno Oliveira </p>
 
@@ -34,7 +34,7 @@ A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após
 
  <p align="center"> <b>Figura 1.</b> Versão definitiva do Rich Picture.
 
- ![Rich Picture versão 2](../assets/Rich_Picture_version2_Mayara.jpeg)
+ ![Rich Picture versão 2](/assets/Rich_Picture_version2_Mayara.jpeg)
  
  <b>Autor(a):</b> Mayara Alves </p>
 
@@ -51,7 +51,7 @@ A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após
 | **Limite do Sistema**    | - Representado pela caixa Preta em torno das operações principais       |
 | **Armazenamento de Dados** | - Ícone de pasta ("Armazenar")                                          |
 
-<center><b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank">Mayara Alves</a></center>
+<b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank">Mayara Alves</a> </center>
 
 <br>
 
@@ -66,4 +66,6 @@ A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após
 ## Histórico de versões
 | Versão  |    Data    |      Descrição             |                  Autor(es)            |                  Revisor(es)            |
 |:-----: | :--------: | :-----------------------: | :------------------------------: | :--------------------------------------------: |
-|`1.0`  | 09/04/2025 |  Criação do Rich Picture   | [Mayara Alves](https://github.com/Mayara-tech)| [Bruno Oliveira](https://github.com/BrunoOliveirax) |
+|`1.0`  | 09/04/2025 |  Criação do Rich Picture Figura 1 e 3   | [Mayara Alves](https://github.com/Mayara-tech)| [Bruno Oliveira](https://github.com/BrunoOliveirax) |
+|`1.1`  | 09/04/2025 |  Criação do Rich Picture figura 2  | [Bruno Oliveira](https://github.com/BrunoOliveirax))|  [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.2`  | 09/04/2025 |  Criação do artefato do rich picture  | [Mayara Alves](https://github.com/Mayara-tech)| [Bruno Oliveira](https://github.com/BrunoOliveirax) |
