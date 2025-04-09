@@ -15,7 +15,7 @@
       - [1.2.2 Causa e efeito](/docs/Base/1.2.2ArtefatoGeneralista.md)
       - [1.2.3 Léxico](/Base/lexico.md)
       - [1.2.4 Mapa mental](/docs/Base/1.2.4ArtefatoGeneralista.md)
-      - [1.2.5 Rich picture](/docs/Base/1.2.5ArtefatoGeneralista.md)
+      - [1.2.5 Rich picture](/docs/Base/Richpicture.md)
     - [**1.3. Modelagem BPMN**](/docs/Base/1.3.ModelagemBPMN.md)
       - [1.3.1 Metodologia](/docs/Base/1.3.1ModelagemBPMN.md)
       - [1.3.2 Modelo BPMN](/docs/Base/1.3.2ModelagemBPMN.md)
