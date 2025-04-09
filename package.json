@@ -2,9 +2,10 @@
     "name": "docsify-project",
     "version": "1.0.0",
     "scripts": {
-    "build": "rm -rf dist && mkdir -p dist/docs && docsify generate docs && cp -r docs/* dist/docs/ && touch dist/docs/.nojekyll",
+    "build": "rm -f docs/_sidebar.md && rm -rf dist && mkdir -p dist/docs && docsify generate docs && cp -r docs/* dist/docs/ && touch dist/docs/.nojekyll",
     "deploy": "gh-pages -d dist -b deploy-docs -r https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git"
-  },
+    },
+
     "dependencies": {
       "docsify-cli": "^4",
       "docsify": "^4.13.1",
