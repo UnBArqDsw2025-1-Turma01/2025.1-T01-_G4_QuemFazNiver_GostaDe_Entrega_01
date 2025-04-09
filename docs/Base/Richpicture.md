@@ -5,9 +5,55 @@
 Um "Rich Picture" é uma representação visual que combina elementos gráficos e textuais para capturar de forma abrangente e holística a complexidade de um problema, sistema ou situação. No contexto da engenharia de software, ele é utilizado para abstrair o funcionamento de sistemas de software e se apresenta na forma de um diagrama com alguns elementos básicos como: atores, processos, armazenamento de dados, setas e limites do sistema. 
 
 ## Metodologia
- Para construção do Rich Picture utilizado 
+Para a construção do Rich Picture, foi utilizada a metodologia baseada nos cinco elementos essenciais: Atores, Operações, Setas, Limite do Sistema e Armazenamento de Dados. Essa abordagem tem como objetivo representar, de forma visual e integrada, os principais componentes e interações de um sistema, facilitando a compreensão de seus processos e a identificação de pontos críticos.
+
+Inicialmente, elaboramos um esboço visual com base em como imaginávamos o projeto, a partir das primeiras ideias e entendimentos do sistema. Esse rascunho serviu como ponto de partida para identificar os principais elementos que fariam parte do Rich Picture, ainda de forma livre e sem compromisso com uma estrutura definitiva.
+
+Posteriormente, durante as sessões do Design Sprint, discutimos e refinamos os pontos levantados no esboço. Esse momento foi essencial para alinhar as ideias entre todos os envolvidos e tomar decisões colaborativas sobre os aspectos mais relevantes a serem representados graficamente.
+
+Com base nas decisões tomadas no Design Sprint, foi possível organizar a estrutura final do Rich Picture, de forma mais objetiva e condizente com os objetivos do projeto.
 
 ## Objetivo
+O objetivo desta etapa foi construir um Rich Picture que representasse de forma clara, visual e colaborativa o sistema analisado, permitindo a identificação dos principais elementos, fluxos de informação, atores envolvidos.
+
+A construção do Rich Picture teve início com um esboço preliminar, baseado nas ideias iniciais da equipe sobre o funcionamento do sistema. Esse esboço pode ser visualizado nas figuras 1 e 2. 
+
+ <p align="center"> <b>Figura 1.</b> Primeira versão do Rich Picture.
+
+ ![Rich Picture versão 1](../assets/Rich_Picture_version1_Mayara.jpeg)
+ 
+ <b>Autor(a): </b> Mayara Alves </p>
+
+  <p align="center"> <b>Figura 2.</b> Primeira versão do Rich Picture.</p>
+
+ ![Rich Picture versão 1](../assets/Rich_Picture_version1_Bruno.jpeg)
+ 
+ <b>Autor(a): </b> Bruno Oliveira </p>
+
+A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após as discussões e alinhamentos realizados durante o Design Sprint, o que possibilitou refinar os elementos representados, organizar melhor as informações e garantir a coerência entre o desenho e os objetivos do projeto.
+
+ <p align="center"> <b>Figura 1.</b> Versão definitiva do Rich Picture.
+
+ ![Rich Picture versão 2](../assets/Rich_Picture_version2_Mayara.jpeg)
+ 
+ <b>Autor(a):</b> Mayara Alves </p>
+
+ A tabela 1 a seguir descreve cada componente presente na imagem, destacando seu papel dentro do sistema e sua representação visual no diagrama:
+<center>
+ 
+ Tabela 1: Componentes do Rich Picture
+
+| Elemento                 | Descrição                                                                 |
+|:--------------------------:|---------------------------------------------------------------------------|
+| **Atores**               | - Usuário <br> - Fornecedores <br> - Comunidade de usuários                 |
+| **Operações**            | - Cadastrar usuário<br> - Adicionar temas e preferências<br> - Adicionar lista de presentes<br> - Acessar calendário de aniversários<br> - Cadastrar fornecedores<br> - Enviar alertas                                               |
+| **Setas (Fluxos)**       | - Representam o fluxo de informações entre usuários, sistema e alertas   |
+| **Limite do Sistema**    | - Representado pela caixa Preta em torno das operações principais       |
+| **Armazenamento de Dados** | - Ícone de pasta ("Armazenar")                                          |
+
+<center><b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank">Mayara Alves</a></center>
+
+<br>
 
 ## Bibliografia 
 
