@@ -41,8 +41,8 @@ Assim, o storyboard resultante foi mais do que uma simples sequência de quadros
 
 ## Histórico de versões 
 
-Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
-:-----: | :----:    | ------    | ----------    | ----------|
+|Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
+|:-----: | :----:    | ------    | ----------    | ----------|
 |`1.0`|09/04/2025|Criação do Storyboard | [Mayara Alves](https://github.com/mayara-tech) | [Hauedy Wegener](https://github.com/HauedyWS))|
 |`1.0`|09/04/2025|Criação do Documento | [Mayara Alves](https://github.com/mayara-tech) | [Hauedy Wegener](https://github.com/HauedyWS))|
 
