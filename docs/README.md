@@ -4,11 +4,12 @@
 **Número do Grupo**: 04<br>
 
 ## Alunos
+
 |Matrícula | Nome | GitHub|  📸    | 
 | -- | -- |--------------|--------------|
 |`211063069` |Breno Queiroz de Lima |[brenob6](https://github.com/brenob6)|  <img src="https://avatars.githubusercontent.com/u/72840950?v=4" width=50>   |
 |`202017540` | Breno Fernandes Soares |[Brenofrds](https://github.com/brenofrds) | <img src="https://avatars.githubusercontent.com/u/132412607?v=4" width=50>   |
-|`180062778` | Bruno de Oliveira|  [Bruno de Oliveira]()  |  |
+|`180062778` | Bruno de Oliveira|  [Bruno de Oliveira](https://github.com/BrunoOLiveirax)  | <img src="https://avatars.githubusercontent.com/u/111513555?v=4" width=50>   |
 |`221007680` | Bruno Ricardo de Menezes|[EhOBruno](https://github.com/EhOBruno)  |<img src="https://avatars.githubusercontent.com/u/110112943?v=4" width=50>      |
 |`211030792` | Hauedy Wegener Soares| [HauedyWS](https://github.com/HauedyWS)|<img src="https://avatars.githubusercontent.com/u/104246126?v=4" width=50> |
 |`211030827` | Leandro de Almeida Oliveia| [leomitx10](https://github.com/leomitx10)|<img src="https://avatars.githubusercontent.com/u/90487905?v=4" width=50> |
@@ -18,7 +19,7 @@
 |`200062883` |Vinicius Castelo|[Vini47](https://github.com/Vini47)|  <img src="https://avatars.githubusercontent.com/u/79549264?v=4" width=50> |
 
 ## Descrição  
-O projeto QuemFazNiver_GostaDe consiste no desenvolvimento de uma aplicação web voltada para a organização de festas de aniversário de forma prática, colaborativa e personalizada. A plataforma permite que os usuários planejem sua própria comemoração ou organizem a festa de outra pessoa, como amigos, familiares ou colegas de trabalho, centralizando preferências, sugestões de presentes, lista de convidados e demais detalhes em um só lugar.
+<p align="justify"> &emsp;&emsp;O projeto QuemFazNiver_GostaDe consiste no desenvolvimento de uma aplicação web voltada para a organização de festas de aniversário de forma prática, colaborativa e personalizada. A plataforma permite que os usuários planejem sua própria comemoração ou organizem a festa de outra pessoa, como amigos, familiares ou colegas de trabalho, centralizando preferências, sugestões de presentes, lista de convidados e demais detalhes em um só lugar.</p>
 
 ## Screenshots da Primeira Entrega
 
