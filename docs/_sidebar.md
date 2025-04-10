@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [**Home**](/docs/README.md)
+- [**Home**](/README.md)
 
 - **Base**
   - [**1. Desenho de Software (Base)**](/docs/Base/1.Base.md)
@@ -17,7 +17,7 @@
       - [1.2.4 Mapa mental](/docs/Base/1.2.4ArtefatoGeneralista.md)
       - [1.2.5 Rich picture](/Base/Richpicture.md)
     - [**1.3. Modelagem BPMN**](/docs/Base/1.3.ModelagemBPMN.md)
-      - [1.3.1 Metodologia](/docs/Base/1.3.1ModelagemBPMN.md)
+      - [1.3.1 Metodologia](/Base/Metodologia.md)
       - [1.3.2 Modelo BPMN](/docs/Base/1.3.2ModelagemBPMN.md)
     - [**1.4. Participações - Base**](/Base/1.4.ParticipacoesBase.md)
     - [**1.5. Iniciativas Extras - Base**](/docs/Base/1.5.IniciativasExtras.md)
