@@ -18,13 +18,13 @@ O objetivo desta etapa foi construir um Rich Picture que representasse de forma 
 
 A construção do Rich Picture teve início com um esboço preliminar, baseado nas ideias iniciais da equipe sobre o funcionamento do sistema. Esse esboço pode ser visualizado nas figuras 1 e 2. 
 
- <p align="center"> <b>Figura 1.</b> Primeira versão do Rich Picture.
+ <p align="center"> <b>Figura 1.</b> Primeira versão do Rich Picture.</p>
 
 <div align="center">
  
  ![Rich Picture versão 1](/assets/Rich_Picture_version1_Mayara.png)
 
- <b>Autor(a): </b> Mayara Alves </p>
+ <b>Autor(a): </b> Mayara Alves 
 
 </div> 
   <p align="center"> <b>Figura 2.</b> Primeira versão do Rich Picture.</p>
@@ -33,24 +33,26 @@ A construção do Rich Picture teve início com um esboço preliminar, baseado n
 
  ![Rich Picture versão 1](/assets/Rich_Picture_version1_Bruno.jpeg)
 
- <b>Autor(a): </b> Bruno Oliveira </p>
+ <b>Autor(a): </b> Bruno Oliveira
  
 </div> 
 A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após as discussões e alinhamentos realizados durante o Design Sprint, o que possibilitou refinar os elementos representados, organizar melhor as informações e garantir a coerência entre o desenho e os objetivos do projeto.
 
- <p align="center"> <b>Figura 1.</b> Versão definitiva do Rich Picture.
+ <p align="center"> <b>Figura 1.</b> Versão definitiva do Rich Picture. </p>
 
 <div align="center">
  
  ![Rich Picture versão 2](/assets/Rich_Picture_version2_Mayara.jpeg)
  
- <b>Autor(a):</b> Mayara Alves </p>
+ <b>Autor(a):</b> Mayara Alves
  
 </div> 
+
  A tabela 1 a seguir descreve cada componente presente na imagem, destacando seu papel dentro do sistema e sua representação visual no diagrama:
-<center>
  
- Tabela 1: Componentes do Rich Picture
+
+  <p align="center"> <b> Tabela 1:</b> Componentes do Rich Picture</p>
+ 
 
 <div align="center">
  
@@ -64,7 +66,7 @@ A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após
 
 </div>
 
-<b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank">Mayara Alves</a> </center>
+<p align="center"><b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank">Mayara Alves</a></p>
 
 <br>
 
