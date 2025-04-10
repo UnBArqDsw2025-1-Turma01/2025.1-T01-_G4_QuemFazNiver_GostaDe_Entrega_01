@@ -28,7 +28,7 @@ Assim, o storyboard resultante foi mais do que uma simples sequência de quadros
 
 <div align="center">
 
- ![Storyboard](/assets/Storyboard.jpeg)
+ ![Storyboard](/assets/Storyboard.jpg)
 
 <p align="center"><b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank">Mayara Alves</a></p>
  
