@@ -42,19 +42,18 @@ A versão definitiva do Rich Picture visualizada na figura 3 foi elaborada após
 <p align="center"><b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank"> Mayara Alves</a></p>
 
  A tabela 1 a seguir descreve cada componente presente na imagem, destacando seu papel dentro do sistema e sua representação visual no diagrama:
- 
 
-  <p align="center"> <b> Tabela 1:</b> Componentes do Rich Picture
+<p align="center"> <b> Tabela 1:</b> Componentes do Rich Picture.</p>
  
 | Elemento                 | Descrição                                                                 |
-|:--------------------------:|---------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------|
 | **Atores**               | - Usuário <br> - Fornecedores <br> - Comunidade de usuários                 |
 | **Operações**            | - Cadastrar usuário<br> - Adicionar temas e preferências<br> - Adicionar lista de presentes<br> - Acessar calendário de aniversários<br> - Cadastrar fornecedores<br> - Enviar alertas                                               |
 | **Setas (Fluxos)**       | - Representam o fluxo de informações entre usuários, sistema e alertas   |
 | **Limite do Sistema**    | - Representado pela caixa Preta em torno das operações principais       |
 | **Armazenamento de Dados** | - Ícone de pasta ("Armazenar")                                          |
 
-</p>
+
 <p align="center"><b>Autor(a):</b><a href="https://github.com/mayara=tech" target = "_blank"> Mayara Alves</a></p>
 
 <br>
