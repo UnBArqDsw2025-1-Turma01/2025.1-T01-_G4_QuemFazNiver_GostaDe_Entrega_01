@@ -158,8 +158,6 @@
 
 ## **Histórico de Versão**
 
-
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 08/04/2025 | Criação do artefato e adição dos léxicos 1 ao 3 | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
