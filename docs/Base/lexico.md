@@ -99,47 +99,47 @@
 
 <br>
 
-### L04: Identificação de Tipos de Evento
-<center><p>Tabela 6: Léxico 04 - Identificação de Tipos de Evento</p> 
-
-| **ID**            | **Descrição**                                                                                  |
-|--------------------|----------------------------------------------------------------------------------------------|
-| **Classificação**  | Objeto |
-| **Impacto**        | Possibilita a personalização e organização eficiente de eventos, garantindo que cada tipo tenha características e configurações específicas.|
-| **Noção**          |Define categorias de eventos que o sistema pode gerenciar.|
-| **Dicionário**     | Categorias de eventos, tipos de festas, eventos personalizados.     |  
-
-</center> 
-
-<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>  
-
-<br>
-
-### L05: Personalização de Convites
-<center><p>Tabela 7: Léxico 05 - Personalização de Convites</p> 
-
-| **ID**            | **Descrição**                                                                                  |
-|--------------------|----------------------------------------------------------------------------------------------|
-| **Classificação**  | Objeto |
-| **Impacto**        | Permite que os usuários criem convites exclusivos, adequados ao estilo e temática do evento, melhorando a experiência e identidade visual. |
-| **Noção**          | Funcionalidade do sistema que possibilita a customização de convites conforme a necessidade do evento. |
-| **Dicionário**     | Edição de convites, customização de modelos, design de convites personalizados.|  
-
-</center> 
-
-<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>  
-
-<br>
-
-### L06: Confirmação de Presença (RSVP)
-<center><p>Tabela 8: Léxico 06 - Confirmação de Presença (RSVP)</p> 
+### L04: Confirmação de Presença
+<center><p>Tabela 6: Léxico 04 - Confirmação de Presença</p> 
 
 | **ID**            | **Descrição**                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
 | **Classificação**  | Verbo |
-| **Impacto**        | O sistema se adapta a diferentes dispositivos (desktop, tablet, smartphone) e é acessível para pessoas com necessidades especiais, garantindo uma experiência de usuário fluida e sem barreiras. |
-| **Noção**          | O sistema responsivo ajusta o layout e as funcionalidades dependendo do dispositivo utilizado, enquanto a acessibilidade garante o uso por todos os tipos de usuários. |
-| **Dicionário**     | Responsividade, acessibilidade, design adaptável, design inclusivo.          |  
+| **Impacto**        | Permite à pessoa organizadora ter controle da quantidade de participantes, evitando imprevistos e otimizando o planejamento da festa.|
+| **Noção**          | Ação dos convidados de informar se irão ou não comparecer ao evento, por meio da plataforma. |
+| **Dicionário**     | Confirmar presença, RSVP, retorno de convite, lista de presença.     |  
+
+</center> 
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>  
+
+<br>
+
+### L05: Preferências do Aniversariante
+<center><p>Tabela 7: Léxico 05 - Preferências do Aniversariante</p> 
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Objeto |
+| **Impacto**        | Serve de base para uma festa mais personalizada e significativa, permitindo presentes e escolhas mais alinhadas ao gosto do aniversariante. |
+| **Noção**          | Conjunto de informações pessoais sobre o aniversariante (comidas favoritas, temas, músicas etc.). |
+| **Dicionário**     | Perfil do aniversariante, gostos pessoais, questionário de preferências, dados pessoais do evento.|  
+
+</center> 
+
+<center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Leandro de Almeida</a></center>  
+
+<br>
+
+### L06: Aba de Fotos da Festa
+<center><p>Tabela 8: Léxico 06 - Aba de Fotos da Festa</p> 
+
+| **ID**            | **Descrição**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Classificação**  | Objeto |
+| **Impacto**        | 	Facilita o armazenamento e o acesso às fotos do evento em um só lugar, promovendo recordações e compartilhamento entre convidados e aniversariante. |
+| **Noção**          | Seção dedicada dentro do perfil do aniversariante onde todos os participantes podem enviar e visualizar as fotos da festa. |
+| **Dicionário**     | Galeria de fotos, álbum do evento, aba de memórias, seção de imagens. |  
 
 </center> 
 
@@ -165,3 +165,4 @@
 | `1.0`  | 08/04/2025 | Criação do artefato e adição dos léxicos 1 ao 3 | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 | `1.1`  | 08/04/2025 | Adição dos léxicos 4 ao 6 e da bibliografia| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23)|
 | `1.2`  | 09/04/2025 |Correção dos Léxicos 1 ao 3|  [Letícia Resende](https://github.com/LeticiaResende23) |[Leandro de Almeida](https://github.com/leomitx10)|
+| `1.3`  | 09/04/2025 |Correção dos Léxicos 4 ao 6| [Leandro de Almeida](https://github.com/leomitx10) | [Letícia Resende](https://github.com/LeticiaResende23) |
