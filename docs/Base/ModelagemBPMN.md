@@ -28,6 +28,19 @@
 
 <br>
 
+<p align="justify"> &emsp;&emsp;O diagrama Kanban mostrado a seguir foi criado utilizando a notação BPMN (Modelo de Processo de Negócios) e visa demonstrar o fluxo de trabalho utilizado pelo grupo durante a execução do projeto. Esta representação gráfica possibilita a visualização clara e sequencial das principais tarefas, decisões e interações entre os integrantes da equipe ao longo do ciclo de vida do software.</p>
+
+<p align="center"> <b>Figura 3.</b> Kanban </p>
+
+![Image](/docs/Base/assets/Bpmn_Kanban_Lean.jpg)
+
+<p align="justify"> &emsp;&emsp;O diagrama descreve o fluxo de um ciclo Kanban. No planejamento do fluxo a equipe fez as reuniões diárias, identificaram as etapas do processo e as preferências do cliente, após a equipe decide se as tarefas criadas durante as dailys serão adicionadas ou não nos quadros e por final se verifica a qualidade dos artefatos.</p>
+
+<center>Autor(a): <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>
+
+<br>
+
+
 ## Bibliografia 
 
 > <p id="1">1. OBJECT MANAGEMENT GROUP. Business Process Model and Notation (BPMN) Version 2.0.2. OMG Document Number: formal/2013-12-09, 2013. Acesso em: 09 abr. 2025.
@@ -42,3 +55,4 @@
 |:-----: | :--------: | :-----------------------: | :------------------------------: | :--------------------------------------------: |
 |`1.0`  | 10/04/2025 |  Criação do documento  | [Mayara Alves](https://github.com/Mayara-tech)| [Letícia Resende](https://github.com/LeticiaResende23)|
 |`1.1`  | 10/04/2025 |  Adicionando metodologia scrum  |[Letícia Resende](https://github.com/LeticiaResende23) |[Mayara Alves](https://github.com/Mayara-tech) |
+|`1.2`  | 10/04/2025 |  Adicionando metodologia Kanban  |[Matheus Barros](https://github.com/Ninja-Haiyai) |[Vinicius Castelo](https://github.com/Vini47) |
