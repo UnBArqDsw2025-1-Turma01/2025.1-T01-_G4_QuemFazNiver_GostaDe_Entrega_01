@@ -11,7 +11,7 @@
       - [1.1.4 Quarta etapa](/docs/Base/1.1.4DesignSprint.md)
       - [1.1.5 Quinta etapa](/docs/Base/1.1.5DesignSprint.md)
     - [**1.2. Artefato Generalista**](/docs/Base/1.2.ArtefatoGeneralista.md)
-      - [1.2.1 5W2H](/docs/Base/5W2H.md)
+      - [1.2.1 5W2H](/Base/5W2H.md)
       - [1.2.2 Causa e efeito](/docs/Base/1.2.2ArtefatoGeneralista.md)
       - [1.2.3 Léxico](/Base/lexico.md)
       - [1.2.4 Mapa mental](/docs/Base/1.2.4ArtefatoGeneralista.md)
