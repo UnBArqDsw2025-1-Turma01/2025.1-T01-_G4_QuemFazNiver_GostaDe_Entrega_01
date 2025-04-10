@@ -28,11 +28,11 @@
 
 <br>
 
-<p align="justify"> &emsp;&emsp;O diagrama Kanban mostrado a seguir foi criado utilizando a notação BPMN (Modelo de Processo de Negócios) e visa demonstrar o fluxo de trabalho utilizado pelo grupo durante a execução do projeto. Esta representação gráfica possibilita a visualização clara e sequencial das principais tarefas, decisões e interações entre os integrantes da equipe ao longo do ciclo de vida do software.</p>
+<p align="justify"> &emsp;&emsp;Na figura 3, o diagrama Kanban criado utilizando a notação BPMN (Modelo de Processo de Negócios) foi elaborado por: Matheus Barros, Vinicius Castelo e Hauedy, visa demonstrar o fluxo de trabalho utilizado pelo grupo durante a execução do projeto. Esta representação gráfica possibilita a visualização clara e sequencial das principais tarefas, decisões e interações entre os integrantes da equipe ao longo do ciclo de vida do software.</p>
 
 <p align="center"> <b>Figura 3.</b> Kanban </p>
 
-![Image](/docs/Base/assets/Bpmn_Kanban_Lean.jpg)
+![Image](https://github.com/Ninja-Haiyai/imagens/blob/main/Bpmn_Kanban_Lean.jpg?raw=true)
 
 <p align="justify"> &emsp;&emsp;O diagrama descreve o fluxo de um ciclo Kanban. No planejamento do fluxo a equipe fez as reuniões diárias, identificaram as etapas do processo e as preferências do cliente, após a equipe decide se as tarefas criadas durante as dailys serão adicionadas ou não nos quadros e por final se verifica a qualidade dos artefatos.</p>
 
