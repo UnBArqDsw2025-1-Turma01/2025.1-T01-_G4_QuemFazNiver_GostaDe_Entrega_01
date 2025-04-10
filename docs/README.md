@@ -22,9 +22,9 @@ O projeto QuemFazNiver_GostaDe consiste no desenvolvimento de uma aplicação we
 
 ## Screenshots da Primeira Entrega
 
- ![Previa Protótipo](/assets/PreviaPrototipo.png)
+ ![Previa Protótipo](/docs/Base/assets/PreviaPrototipo.png)
 
- ![Previa Artefatos](/assets/PreviaArtefatos.png) 
+ ![Previa Artefatos](/docs/Base/assets/PreviaArtefatos.png) 
 
 ## Tecnologia 
 
