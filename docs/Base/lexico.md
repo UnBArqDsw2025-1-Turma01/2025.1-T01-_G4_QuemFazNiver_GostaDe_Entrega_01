@@ -8,9 +8,9 @@
 
 <p align="justify"> &emsp;&emsp;Para a construção do léxico utilizamos a metodologia Léxico Ampliado da Linguagem (LAL), uma abordagem amplamente utilizada na Engenharia de Requisitos. O LAL permite a descrição de cada símbolo (termo, conceito ou representação) em duas dimensões principais: noção e impacto.</p>
 
-- Noção refere-se ao significado direto ou denotação do símbolo, ou seja, o que ele representa de forma objetiva no contexto do domínio. Essa definição ajuda a estabelecer uma base clara e comum para todos os envolvidos no projeto, minimizando ambiguidades.
+- <p align="justify">Noção refere-se ao significado direto ou denotação do símbolo, ou seja, o que ele representa de forma objetiva no contexto do domínio. Essa definição ajuda a estabelecer uma base clara e comum para todos os envolvidos no projeto, minimizando ambiguidades.</p>
 
-- Impacto descreve os efeitos que o símbolo pode gerar, ou seja, sua conotação. Esse aspecto leva em consideração como o símbolo pode evocar diferentes reações ou sentidos conforme o contexto, influenciando a interpretação e as decisões dos stakeholders.
+- <p align="justify">Impacto descreve os efeitos que o símbolo pode gerar, ou seja, sua conotação. Esse aspecto leva em consideração como o símbolo pode evocar diferentes reações ou sentidos conforme o contexto, influenciando a interpretação e as decisões dos stakeholders.</p>
 
 <br>
 
