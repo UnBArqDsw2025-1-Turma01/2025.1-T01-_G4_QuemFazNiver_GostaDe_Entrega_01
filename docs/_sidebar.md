@@ -2,7 +2,7 @@
 - Base
   - [ 5W2H](Base/ 5W2H.md)
   - [1.1.DesignSprint](Base/1.1.DesignSprint.md)
-  - [1.2.ArtefatoGeneralista](Base/1.2.ArtefatoGeneralista.md)
+  - [1.2..CausaEEfeito](Base/1.2..CausaEEfeito.md)
   - [1.3.ModelagemBPMN](Base/1.3.ModelagemBPMN.md)
   - [1.4.ParticipacoesBase](Base/1.4.ParticipacoesBase.md)
   - [1.5.IniciativasExtras](Base/1.5.IniciativasExtras.md)
