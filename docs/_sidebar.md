@@ -14,7 +14,7 @@
       - [1.2.1 5W2H](Base/5w2h.md)
       - [1.2.2 Causa e efeito](/Base/1.2..CausaEEfeito.md)
       - [1.2.3 Léxico](/Base/lexico.md)
-      - [1.2.4 Mapa mental](/docs/Base/1.2.4ArtefatoGeneralista.md)
+      - [1.2.4 Mapa mental](/Base/MapaMental.md)
       - [1.2.5 Rich picture](/Base/Richpicture.md)
     - [**1.3. Modelagem BPMN**](/docs/Base/1.3.ModelagemBPMN.md)
       - [1.3.1 Metodologias](/Base/Metodologia.md)
