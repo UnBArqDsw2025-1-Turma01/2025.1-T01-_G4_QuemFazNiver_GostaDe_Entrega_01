@@ -22,7 +22,7 @@
 
 ![Image](https://github.com/user-attachments/assets/09bcc705-05e4-4d69-88e5-11000abca957)
 
-<p align="justify"> &emsp;&emsp;O diagrama descreve o fluxo de um ciclo Scrum. Começa com o Planejamento da Sprint, seguido pelo Desenvolvimento, que inclui Reuniões Diárias e decisões sobre Tarefas Pendentes. Após o desenvolvimento, ocorre a Revisão da Sprint e a Retrospectiva para avaliar o processo. O ciclo é repetido para a próxima Sprint.</p>
+<p align="justify"> &emsp;&emsp;O diagrama descreve o fluxo de um ciclo Scrum. Começa com o Planejamento da Sprint, seguido pelo Desenvolvimento, que inclui Reuniões Diárias e decisões sobre Tarefas Pendentes. Após o desenvolvimento, ocorre a Revisão da Sprint e a Retrospectiva para avaliar o processo. O ciclo é repetido para a próxima Sprint. O diagrama foi feito pelos membros Letícia, Leandro e Breno Queiroz.</p>
 
 <center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
