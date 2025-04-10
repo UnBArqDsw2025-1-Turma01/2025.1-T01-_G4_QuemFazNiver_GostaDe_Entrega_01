@@ -7,6 +7,7 @@
   - [1.5.IniciativasExtras](Base/1.5.IniciativasExtras.md)
   - [1.Base](Base/1.Base.md)
   - [5w2h](Base/5w2h.md)
+  - [Metodologia](Base/Metodologia.md)
   - [Richpicture](Base/Richpicture.md)
   - [Storyboard](Base/Storyboard.md)
   - [Teste](Base/assets/Teste.md)
