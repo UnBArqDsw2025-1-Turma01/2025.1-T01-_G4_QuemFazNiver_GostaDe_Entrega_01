@@ -24,7 +24,7 @@ Etapa 2 – Artefatos elaborados: com base nas ideias e possíveis soluções ge
 
 Assim, o storyboard resultante foi mais do que uma simples sequência de quadros: ele se consolidou como uma ferramenta de comunicação eficaz, capaz de ilustrar como a solução se encaixa no cotidiano do usuário e quais problemas ela busca resolver. O storyboard, apresentado na Figura 1, serviu como base fundamental para a etapa de prototipação, orientando a definição das interfaces, funcionalidades e interações principais da solução desenvolvida.
 
-  <p align="center"> <b>Figura 1.</b> Storyboard.</p>
+<p align="center"> <b>Figura 1.</b> Storyboard.</p>
 
 <div align="center">
 

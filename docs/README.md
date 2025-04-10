@@ -18,7 +18,7 @@
 |`200062883` |Vinicius Castelo|[Vini47](https://github.com/Vini47)|  <img src="https://avatars.githubusercontent.com/u/79549264?v=4" width=50> |
 
 ## Descrição  
-O projeto QuemFazNiver_GostaDe consiste no desenvolvimento de uma aplicação web voltada para a organização de festas de aniversário de forma prática, colaborativa e personalizada. A plataforma permite que os usuários planejem sua própria comemoração ou organizem a festa de outra pessoa, como amigos, familiares ou colegas de trabalho, centralizando preferências, sugestões de presentes, lista de convidados e demais detalhes em um só lugar.
+<p align="justify"> &emsp;&emsp;O projeto QuemFazNiver_GostaDe consiste no desenvolvimento de uma aplicação web voltada para a organização de festas de aniversário de forma prática, colaborativa e personalizada. A plataforma permite que os usuários planejem sua própria comemoração ou organizem a festa de outra pessoa, como amigos, familiares ou colegas de trabalho, centralizando preferências, sugestões de presentes, lista de convidados e demais detalhes em um só lugar.</p>
 
 ## Screenshots da Primeira Entrega
 
