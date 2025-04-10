@@ -8,7 +8,22 @@ De acordo com o Object Management Group (OMG, 2013), a BPMN fornece uma notaçã
 
 ## Metodologia 
 
+Para representar de forma clara e estruturada a aplicação das metodologias ao longo do projeto, utilizamos a modelagem BPMN (Business Process Model and Notation). Essa notação gráfica permitiu descrever visualmente o fluxo de atividades, decisões e interações envolvidas no desenvolvimento, facilitando a compreensão e o alinhamento entre os participantes do projeto.
+
+No diagrama BPMN elaborado estão descritos os processos que envolvem a aplicação de diferentes metodologias, como o XP (Extreme Programming), Scrum, RUP (Rational Unified Process), Design Sprint, Lean Thinking e o Kanban adaptado. Cada metodologia foi incorporada em momentos estratégicos do projeto, conforme suas características e contribuições específicas
+
 ## Objetivo
+
 
 ## Bibliografia 
 
+> <p id="1">1. OBJECT MANAGEMENT GROUP. Business Process Model and Notation (BPMN) Version 2.0.2. OMG Document Number: formal/2013-12-09, 2013. Acesso em: 09 abr. 2025.
+</p>
+
+> <p id="1">2. BALDAM, R.; VALLE, R.; FAVARETTO, F. Modelagem de Processos de Negócio com BPMN. Rio de Janeiro: Brasport, 2014. Acesso em: 09 abr. 2025.
+</p>
+
+## Histórico de versões
+| Versão  |    Data    |      Descrição             |                  Autor(es)            |                  Revisor(es)            |
+|:-----: | :--------: | :-----------------------: | :------------------------------: | :--------------------------------------------: |
+|`1.0`  | 10/04/2025 |  Criação do documento  | [Mayara Alves](https://github.com/Mayara-tech)| [Letícia Resende](https://github.com/LeticiaResende23)|
