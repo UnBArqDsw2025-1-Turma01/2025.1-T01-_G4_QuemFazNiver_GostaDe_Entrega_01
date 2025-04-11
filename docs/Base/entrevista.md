@@ -81,9 +81,6 @@
 - <b>Fluxo 6:</b> Anexar fotos da festa após o evento ao perfil do aniversariante;
 - <b>Fluxo 7:</b> Visualizar fotos, recados e memórias da festa após o evento.
 
-<br>
-
-
 ## **Encerrameto**
 
 <p align="justify">
