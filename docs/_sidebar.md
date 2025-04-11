@@ -4,12 +4,12 @@
 
 - **Base**
   - [**1. Desenho de Software (Base)**](/docs/Base/1.Base.md)
-    - [**1.1. Design Sprint**](/docs/Base/1.1.DesignSprint.md)
-      - [1.1.1 Primeira etapa](/docs/Base/1.1.1DesignSprint.md)
-      - [1.1.2 Segunda etapa](/docs/Base/1.1.2DesignSprint.md)
-      - [1.1.3 Terceira etapa](/docs/Base/1.1.3DesignSprint.md)
-      - [1.1.4 Quarta etapa](/docs/Base/1.1.4DesignSprint.md)
-      - [1.1.5 Quinta etapa](/docs/Base/1.1.5DesignSprint.md)
+    - [**1.1. Design Sprint**](/Base/1.1.DesignSprint.md)
+      - [1.1.1 Etapa 1 - Entendimento](Base/1.1.1.entendimento.md)
+      - [1.1.2 Etapa 2 - Esboço](/Base/1.1.2.esboco.md)
+      - [1.1.3 Etapa 3 - Decisão](/Base/1.1.3.decisao.md)
+      - [1.1.4 Etapa 4 - Protótipo](/Base/1.1.4.prototipo.md)
+      - [1.1.5 Etapa 5 - Validação](/Base/1.1.5.validacao.md)
       - [1.1.6 Sexta etapa](/Base/1.6.Protótipo.md)
     - [**1.2. Artefato Generalista**](/docs/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 5W2H](Base/5w2h.md)
