@@ -22,9 +22,9 @@
 
 ## Screenshots da Primeira Entrega
 
- ![Previa Protótipo](/docs/Projeto/assets/PreviaPrototipo.png)
+ ![Previa Protótipo](/../Base/assets/PreviaPrototipo.png)
 
- ![Previa Artefatos](/docs/Projeto/assets/PreviaArtefatos.png) 
+ ![Previa Artefatos](/../Base/assets/PreviaArtefatos.png) 
 
 ## Tecnologia 
 
