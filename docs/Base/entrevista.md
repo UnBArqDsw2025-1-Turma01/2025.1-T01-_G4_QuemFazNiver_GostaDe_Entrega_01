@@ -101,6 +101,9 @@
 
 <center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>,<a href="https://github.com/Brenofrds" target = "_blank">Breno Fernandes</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>
 
+## Resposta do Usuário
+"Achei bem legal, só trocaria a cor da lista do Quiz, pois o design não combinou muito, mas ficou bem intuitivo, muito legal."
+
 ## Requisitos elicitados
 
 ### Legenda
@@ -134,4 +137,5 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 10/04/2025 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
-| `1.1`  | 10/04/2025 | Adcionando vídeo da entrevista | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+| `1.1`  | 10/04/2025 | Adicionando vídeo da entrevista | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+| `1.2`  | 11/04/2025 | Adicionando resposta do usuário | [Letícia Resende](https://github.com/LeticiaResende23) | [Bruno Ricardo](https://github.com/EhOBruno)|
