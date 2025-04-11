@@ -17,11 +17,10 @@
       - [1.2.3 Léxico](/Base/lexico.md)
       - [1.2.4 Mapa mental](/Base/MapaMental.md)
       - [1.2.5 Rich picture](/Base/Richpicture.md)
-    - [**1.3. Modelagem BPMN**](/docs/Base/1.3.ModelagemBPMN.md)
+    - **1.3. Modelagem BPMN**
       - [1.3.1 Metodologias](/Base/Metodologia.md)
       - [1.3.2 Modelo BPMN](/Base/ModelagemBPMN.md)
     - [**1.4. Participações - Base**](/Base/1.4.ParticipacoesBase.md)
-    - [**1.5. Iniciativas Extras - Base**](/docs/Base/1.5.IniciativasExtras.md)
-      - [1.5.1 Planejamento](/docs/Base/1.5.IniciativasExtras.md)
-      - [1.5.2 Storyboard](/Base/Storyboard.md)
+    - **1.5. Iniciativas Extras - Base**
+      - [1.5.1 Storyboard](/Base/Storyboard.md)
     
