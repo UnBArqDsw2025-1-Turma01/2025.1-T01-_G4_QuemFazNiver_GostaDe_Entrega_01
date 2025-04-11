@@ -77,4 +77,4 @@
 |`1.0`  | 10/04/2025 |  Criação do documento  | [Mayara Alves](https://github.com/Mayara-tech)| [Letícia Resende](https://github.com/LeticiaResende23)|
 |`1.1`  | 10/04/2025 |  Adicionando metodologia scrum  |[Letícia Resende](https://github.com/LeticiaResende23) |[Mayara Alves](https://github.com/Mayara-tech) |
 |`1.2`  | 10/04/2025 |  Adicionando metodologia Kanban  |[Matheus Barros](https://github.com/Ninja-Haiyai) |[Vinicius Castelo](https://github.com/Vini47) |
-|`1.2`  | 10/04/2025 |  Adicionando metodologia XP e Diagrama de metodologias  |[ [Mayara Alves](https://github.com/Mayara-tech) |[Vinicius Castelo](https://github.com/Vini47) |
+|`1.2`  | 10/04/2025 |  Adicionando metodologia XP e Diagrama de metodologias  |[Mayara Alves](https://github.com/Mayara-tech) |[Vinicius Castelo](https://github.com/Vini47) |
