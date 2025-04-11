@@ -10,11 +10,18 @@
 
 <p align="justify"> &emsp;&emsp;Para representar de forma clara e estruturada a aplicação das metodologias ao longo do projeto, utilizamos a modelagem BPMN (Business Process Model and Notation). Essa notação gráfica permitiu descrever visualmente o fluxo de atividades, decisões e interações envolvidas no desenvolvimento, facilitando a compreensão e o alinhamento entre os participantes do projeto.</p>
 
-<p align="justify"> &emsp;&emsp;No diagrama BPMN elaborado estão descritos os processos que envolvem a aplicação de diferentes metodologias, como o XP (Extreme Programming), Scrum, RUP (Rational Unified Process), Design Sprint, Lean Thinking e o Kanban adaptado. Cada metodologia foi incorporada em momentos estratégicos do projeto, conforme suas características e contribuições específicas</p>
 
 ## Objetivo
 
+<p align="justify"> &emsp;&emsp;No diagrama BPMN elaborado estão descritos os processos que envolvem a aplicação de diferentes metodologias, como o XP (Extreme Programming), Scrum, RUP (Rational Unified Process), Design Sprint, Lean Thinking e o Kanban adaptado. Cada metodologia foi incorporada em momentos estratégicos do projeto, conforme suas características e contribuições específicas</p>
 
+<p align="justify"> &emsp;&emsp;A figura 1 a seguir  apresenta o diagrama elaborado com base na notação BPMN (Business Process Model and Notation), representando o fluxo metodológico adotado pelo grupo durante o desenvolvimento do projeto. O modelo descreve, de forma visual e organizada, como diferentes metodologias foram aplicadas ao longo das etapas — desde o planejamento inicial até a definição da arquitetura de software e reutilização.</p>
+
+<p align="center"> <b>Figura 1.</b> Metodologias</p>
+
+![Image]()
+
+<br>
 
 <p align="justify"> &emsp;&emsp;A figura 2 a seguir apresenta o diagrama Scrum, elaborado com base na notação BPMN (Business Process Model and Notation), representando o fluxo metodológico adotado pelo grupo durante o desenvolvimento do projeto. O modelo descreve, de forma visual e organizada, como diferentes metodologias foram aplicadas ao longo das etapas — desde o planejamento inicial até a definição da arquitetura de software e reutilização.</p>
 
@@ -40,6 +47,20 @@
 
 <br>
 
+<p align="justify"> &emsp;&emsp;Na figura 4, o diagrama XP criado utilizando a notação BPMN (Modelo de Processo de Negócios) foi elaborado por: Mayara Alves, visa demonstrar como foi a utilização da metodologia XP pelo grupo durante a execução do projeto. Esta representação gráfica possibilita a visualização clara e sequencial das principais tarefas, decisões e interações entre os integrantes da equipe ao longo do ciclo de vida do software.</p>
+
+<p align="center"> <b>Figura 4.</b> XP </p>
+
+![Image]()
+
+<p align="justify"> &emsp;&emsp;O diagrama representa o fluxo de trabalho baseado nos princípios da metodologia XP, com ênfase nas práticas de programação em par e integração contínua. Inicialmente, a equipe identifica a necessidade de um novo recurso ou artefato. A partir disso, inicia-se a coleta de requisitos para compreender as funcionalidades desejadas. Em seguida, ocorre a divisão dos pares de programadores e a definição das tarefas que serão executadas por meio da prática de pareamento. Após a execução das tarefas em conjunto, os artefatos produzidos são submetidos à revisão por pares, garantindo qualidade e alinhamento com os objetivos do cliente.</p>
+
+<p align="justify"> &emsp;&emsp;Paralelamente, entra em ação o fluxo de integração contínua: os elementos gerados são integrados e submetidos a testes automatizados. Caso os artefatos passem nos testes, seguem para a etapa de implementação definitiva no repositório. Caso contrário, retornam ao ciclo de desenvolvimento para ajustes. Por fim, após todas as validações e revisões, a tarefa é encerrada. Esse fluxo garante entregas frequentes, colaboração constante entre os membros da equipe e foco na qualidade do código. </p>
+
+<center>Autor(a): <a href="https://github.com/mayara-tech" target = "_blank">Mayara Alves</a></center>
+
+<br>
+
 
 ## Bibliografia 
 
@@ -56,3 +77,4 @@
 |`1.0`  | 10/04/2025 |  Criação do documento  | [Mayara Alves](https://github.com/Mayara-tech)| [Letícia Resende](https://github.com/LeticiaResende23)|
 |`1.1`  | 10/04/2025 |  Adicionando metodologia scrum  |[Letícia Resende](https://github.com/LeticiaResende23) |[Mayara Alves](https://github.com/Mayara-tech) |
 |`1.2`  | 10/04/2025 |  Adicionando metodologia Kanban  |[Matheus Barros](https://github.com/Ninja-Haiyai) |[Vinicius Castelo](https://github.com/Vini47) |
+|`1.2`  | 10/04/2025 |  Adicionando metodologia XP e Diagrama de metodologias  |[ [Mayara Alves](https://github.com/Mayara-tech) |[Vinicius Castelo](https://github.com/Vini47) |
