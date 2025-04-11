@@ -6,10 +6,9 @@
 
 <p align="justify"> &emsp;&emsp;De acordo com o Object Management Group (OMG, 2013), a BPMN fornece uma notação gráfica rica e compreensível, que permite mapear os processos de forma clara e padronizada, representando fluxos de trabalho com eventos, atividades, decisões e interações entre participantes. Essa abordagem contribui diretamente para a melhoria da eficiência, alinhamento estratégico e rastreabilidade dos processos de negócio.</p>
 
-## Metodologia 
+## Metodologia
 
 <p align="justify"> &emsp;&emsp;Para representar de forma clara e estruturada a aplicação das metodologias ao longo do projeto, utilizamos a modelagem BPMN (Business Process Model and Notation). Essa notação gráfica permitiu descrever visualmente o fluxo de atividades, decisões e interações envolvidas no desenvolvimento, facilitando a compreensão e o alinhamento entre os participantes do projeto.</p>
-
 
 ## Objetivo
 
@@ -65,7 +64,7 @@
 
 <p align="center"> <b>Figura 5.</b> Design Print </p>
 
-![Design Sprint](/assets/BPMN/DesignSprint.png)
+![Design Sprint](/assets/BPMN/DesignSprint.jpg)
 
 <p align="justify"> &emsp;&emsp;</p>
 
@@ -77,28 +76,29 @@
 
 <p align="center"> <b>Figura 6.</b> RUP </p>
 
-![RUP](/assets/BPMN/RUP.png)
+![RUP](/assets/BPMN/RUP.jpg)
 
 <p align="justify"> &emsp;&emsp;</p>
 
 <center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a></center>
 
-
-## Bibliografia 
+## Bibliografia
 
 > <p id="1">1. OBJECT MANAGEMENT GROUP. Business Process Model and Notation (BPMN) Version 2.0.2. OMG Document Number: formal/2013-12-09, 2013. Acesso em: 09 abr. 2025.
+
 </p>
 
 > <p id="1">2. BALDAM, R.; VALLE, R.; FAVARETTO, F. Modelagem de Processos de Negócio com BPMN. Rio de Janeiro: Brasport, 2014. Acesso em: 09 abr. 2025.
+
 </p>
 <br>
 
 ## Histórico de versões
-| Versão  |    Data    |      Descrição             |                  Autor(es)            |                  Revisor(es)            |
-|:-----: | :--------: | :-----------------------: | :------------------------------: | :--------------------------------------------: |
-|`1.0`  | 10/04/2025 |  Criação do documento  | [Mayara Alves](https://github.com/Mayara-tech)| [Letícia Resende](https://github.com/LeticiaResende23)|
-|`1.1`  | 10/04/2025 |  Adicionando metodologia scrum  |[Letícia Resende](https://github.com/LeticiaResende23) |[Mayara Alves](https://github.com/Mayara-tech) |
-|`1.2`  | 10/04/2025 |  Adicionando metodologia Kanban  |[Matheus Barros](https://github.com/Ninja-Haiyai) |[Vinicius Castelo](https://github.com/Vini47) |
-|`1.2`  | 10/04/2025 |  Adicionando metodologia XP e Diagrama de metodologias  |[Mayara Alves](https://github.com/Mayara-tech) |[Vinicius Castelo](https://github.com/Vini47) |
-|`1.3`  | 10/04/2025 |  Adicionando metodologia RUP e o Design Sprint  |[Bruno Ricardo](https://github.com/EhOBruno) |[Breno Soares](https://github.com/Brenofrds) |
 
+| Versão |    Data    |                       Descrição                       |                       Autor(es)                        |                      Revisor(es)                       |
+| :----: | :--------: | :---------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+| `1.0`  | 10/04/2025 |                 Criação do documento                  |     [Mayara Alves](https://github.com/Mayara-tech)     | [Letícia Resende](https://github.com/LeticiaResende23) |
+| `1.1`  | 10/04/2025 |             Adicionando metodologia scrum             | [Letícia Resende](https://github.com/LeticiaResende23) |     [Mayara Alves](https://github.com/Mayara-tech)     |
+| `1.2`  | 10/04/2025 |            Adicionando metodologia Kanban             |   [Matheus Barros](https://github.com/Ninja-Haiyai)    |     [Vinicius Castelo](https://github.com/Vini47)      |
+| `1.2`  | 10/04/2025 | Adicionando metodologia XP e Diagrama de metodologias |     [Mayara Alves](https://github.com/Mayara-tech)     |     [Vinicius Castelo](https://github.com/Vini47)      |
+| `1.3`  | 10/04/2025 |     Adicionando metodologia RUP e o Design Sprint     |      [Bruno Ricardo](https://github.com/EhOBruno)      |      [Breno Soares](https://github.com/Brenofrds)      |
