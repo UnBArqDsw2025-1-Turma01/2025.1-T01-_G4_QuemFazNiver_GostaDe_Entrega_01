@@ -19,7 +19,7 @@
 
 <p align="center"> <b>Figura 1.</b> Metodologias</p>
 
-![Image]()
+![Metodologias](/assets/DiagramaMetodologia.jpeg)
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <p align="center"> <b>Figura 4.</b> XP </p>
 
-![Image]()
+![Metodologias](/assets/MetodologiaXP.png)
 
 <p align="justify"> &emsp;&emsp;O diagrama representa o fluxo de trabalho baseado nos princípios da metodologia XP, com ênfase nas práticas de programação em par e integração contínua. Inicialmente, a equipe identifica a necessidade de um novo recurso ou artefato. A partir disso, inicia-se a coleta de requisitos para compreender as funcionalidades desejadas. Em seguida, ocorre a divisão dos pares de programadores e a definição das tarefas que serão executadas por meio da prática de pareamento. Após a execução das tarefas em conjunto, os artefatos produzidos são submetidos à revisão por pares, garantindo qualidade e alinhamento com os objetivos do cliente.</p>
 
