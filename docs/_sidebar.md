@@ -10,6 +10,7 @@
       - [1.1.3 Terceira etapa](/docs/Base/1.1.3DesignSprint.md)
       - [1.1.4 Quarta etapa](/docs/Base/1.1.4DesignSprint.md)
       - [1.1.5 Quinta etapa](/docs/Base/1.1.5DesignSprint.md)
+      - [1.1.6 Sexta etapa](/Base/1.6.Protótipo.md)
     - [**1.2. Artefato Generalista**](/docs/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 5W2H](Base/5w2h.md)
       - [1.2.2 Causa e efeito](/Base/1.2..CausaEEfeito.md)
