@@ -17,6 +17,7 @@
   - [Richpicture](Base/Richpicture.md)
   - [Storyboard](Base/Storyboard.md)
   - [Teste](Base/assets/Teste.md)
+  - [Brainstorming](Base/brainstorming.md)
   - [Entrevista](Base/entrevista.md)
   - [Lexico](Base/lexico.md)
 
