@@ -30,7 +30,7 @@
 
 | Identificador da entrevista | Entrevistadores | Entrevistado | data | horário | Local |
 | ----------- | -------- | -------- | -------- | -------- | ----- |
-| Entrevista 1 |  Letícia Resende, Matheus Barros e Leandro de Almeida | Carolina Barbosa | 10/04/2025 | 22;00|  Pelo Teams |
+| Entrevista 1 |  Letícia Resende, Matheus Barros e Breno Fernandes | Hugo Quiroz | 10/04/2025 | 22:11|  Pelo Teams |
 
 <center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a></center>
 
@@ -93,6 +93,13 @@
 
 <br>
 
+## Link da Entrevista
+<center>
+    <p>Vídeo 01: Entrevista </p>
+   <iframe width="760" height="515" src="https://www.youtube.com/embed/_dhVsgnFyOY?si=x__9Xjex6erCHcTf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+<center>Autor(a): <a href="https://github.com/LeticiaResende23" target = "_blank">Letícia Resende</a>,<a href="https://github.com/Brenofrds" target = "_blank">Breno Fernandes</a>, <a href="https://github.com/Ninja-Haiyai" target = "_blank">Matheus Barros</a></center>
 
 ## Requisitos elicitados
 
@@ -127,3 +134,4 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ---------- |
 | `1.0`  | 10/04/2025 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
+| `1.1`  | 10/04/2025 | Adcionando vídeo da entrevista | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
