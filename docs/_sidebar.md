@@ -1,7 +1,10 @@
 
 - Base
+  - [1.1.1.Entendimento](Base/1.1.1.entendimento.md)
+  - [1.1.2.Esboco](Base/1.1.2.esboco.md)
+  - [1.1.3.Decisao](Base/1.1.3.decisao.md)
   - [1.1.DesignSprint](Base/1.1.DesignSprint.md)
-  - [1.2..CausaEEfeito](Base/1.2..CausaEEfeito.md)
+  - [1.2.2.CausaEEfeito](Base/1.2.2.CausaEEfeito.md)
   - [1.3.ModelagemBPMN](Base/1.3.ModelagemBPMN.md)
   - [1.4.ParticipacoesBase](Base/1.4.ParticipacoesBase.md)
   - [1.5.IniciativasExtras](Base/1.5.IniciativasExtras.md)
