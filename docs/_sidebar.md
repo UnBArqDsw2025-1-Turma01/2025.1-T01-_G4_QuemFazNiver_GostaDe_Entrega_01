@@ -24,3 +24,7 @@
   - [Projeto](Projeto/Projeto.md)
 
 - [README](README.md)
+
+- Atas
+  - [Reuniao1](atas/reuniao1.md)
+  - [Reuniao2](atas/reuniao2.md)
