@@ -61,6 +61,28 @@
 
 <br>
 
+<p align="justify"> &emsp;&emsp;Na figura 5, o diagrama do Design Sprint criado utilizando a notação BPMN (Modelo de Processo de Negócios) foi elaborado por: Bruno Ricardo e Breno Soares, visa demonstrar como foi a utilização do Design Sprint pelo grupo durante a execução do projeto. Esta representação gráfica possibilita a visualização clara e sequencial das principais tarefas, decisões e interações entre os integrantes da equipe ao longo desse processo.</p>
+
+<p align="center"> <b>Figura 5.</b> Design Print </p>
+
+![Design Sprint](/assets/BPMN/DesignSprint.png)
+
+<p align="justify"> &emsp;&emsp;</p>
+
+<center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a></center>
+
+<br>
+
+<p align="justify"> &emsp;&emsp;Na figura 5, o diagrama da metodologia RUP criado utilizando a notação BPMN (Modelo de Processo de Negócios) foi elaborado por: Bruno Ricardo e Bruno de Oliveira, visa demonstrar como foi e como será a utilização da metodologia RUP pelo grupo durante a execução do projeto. Esta representação gráfica possibilita a visualização clara e sequencial das principais tarefas, decisões e interações entre os integrantes da equipe ao longo do ciclo de vida do software.</p>
+
+<p align="center"> <b>Figura 6.</b> RUP </p>
+
+![RUP](/assets/BPMN/RUP.png)
+
+<p align="justify"> &emsp;&emsp;</p>
+
+<center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a></center>
+
 
 ## Bibliografia 
 
@@ -78,3 +100,5 @@
 |`1.1`  | 10/04/2025 |  Adicionando metodologia scrum  |[Letícia Resende](https://github.com/LeticiaResende23) |[Mayara Alves](https://github.com/Mayara-tech) |
 |`1.2`  | 10/04/2025 |  Adicionando metodologia Kanban  |[Matheus Barros](https://github.com/Ninja-Haiyai) |[Vinicius Castelo](https://github.com/Vini47) |
 |`1.2`  | 10/04/2025 |  Adicionando metodologia XP e Diagrama de metodologias  |[Mayara Alves](https://github.com/Mayara-tech) |[Vinicius Castelo](https://github.com/Vini47) |
+|`1.3`  | 10/04/2025 |  Adicionando metodologia RUP e o Design Sprint  |[Bruno Ricardo](https://github.com/EhOBruno) |[Breno Soares](https://github.com/Brenofrds) |
+
