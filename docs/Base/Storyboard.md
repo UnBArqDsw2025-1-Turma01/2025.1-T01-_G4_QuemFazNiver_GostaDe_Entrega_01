@@ -34,6 +34,9 @@ Assim, o storyboard resultante foi mais do que uma simples sequência de quadros
  
 </div> 
 
+O storyboard começa com uma jovem refletindo sobre o próprio aniversário e como gostaria de ter uma festa especial, com tudo do seu gosto. Pensando nisso, ela decide criar um perfil em uma plataforma, onde pode adicionar suas preferências, como temas e sabores favoritos. Com tudo configurado, ela percebe que seus amigos podem visualizar essas informações e organizar algo incrível para ela. Em seguida, seus amigos descobrem o perfil e têm a ideia de usar as informações disponíveis para planejar uma festa surpresa. Eles acessam os dados e conseguem preparar cada detalhe com base nos gostos dela. A festa acontece e é um sucesso — personalizada, divertida e exatamente como ela sempre quis. No final, todos comemoram o resultado e destacam como a plataforma facilitou a organização, reforçando a importância de registrar as preferências para tornar momentos especiais ainda mais inesquecíveis.
+
+
 ## Bibliografia
 
 > Storyboards, Disponível em: <https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-storyboards>.
@@ -44,5 +47,7 @@ Assim, o storyboard resultante foi mais do que uma simples sequência de quadros
 |Versão  |   Data    | Descrição | Autor(es)     | Revisor(es)|
 |:-----: | :----:    | ------    | ----------    | ----------|
 |`1.0`|09/04/2025|Criação do Storyboard | [Mayara Alves](https://github.com/mayara-tech) | [Hauedy Wegener](https://github.com/HauedyWS)|
-|`1.0`|09/04/2025|Criação do Documento | [Mayara Alves](https://github.com/mayara-tech) | [Hauedy Wegener](https://github.com/HauedyWS)|
+|`1.1`|09/04/2025|Criação do Documento | [Mayara Alves](https://github.com/mayara-tech) | [Hauedy Wegener](https://github.com/HauedyWS)|
+|`1.2`|11/04/2025|Adicão da explicação do storyboard | [Mayara Alves](https://github.com/mayara-tech) | [Hauedy Wegener](https://github.com/HauedyWS)|
+
 
