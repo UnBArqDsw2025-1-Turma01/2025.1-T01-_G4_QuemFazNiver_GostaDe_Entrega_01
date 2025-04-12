@@ -30,20 +30,25 @@ Local: Online via Teams
 
 ## Link da gravação:
 
-[link da Reunião 20/10/2024](https://youtu.be/sKlWCrd8NJE)
+[link da Reunião 1 - 07/04/2025](https://www.youtube.com/watch?v=HGajszp-6xI)
 
 <center>
     <p>Vídeo 01: Gravação 1 da reunião 2</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/HGajszp-6xI?si=4Hs2mxNDcU2bdCus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
 </center>
 
 <center>Autor(a): <a href="https://github.com/leomitx10" target = "_blank">Letícia Resende</a></h6></center>
 
 <br>
+
+## Link da gravação:
+
+[link da Reunião 2 - 07/04/2025](https://youtu.be/lMTDNBNKC20)
+
 <center>
     <p>Vídeo 02: Gravação 2 da reunião 2</p>
-    <iframe width="760" height="515" src="https://www.youtube.com/embed/sKlWCrd8NJE?si=1NYoxfKk_63si-6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"  allowfullscreen></iframe>
+    <iframe width="760" height="515" src="https://www.youtube.com/embed/lMTDNBNKC20?si=qnJBVpYy23bR4vpG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
 </center>
 
