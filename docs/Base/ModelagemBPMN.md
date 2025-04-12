@@ -68,7 +68,7 @@
 
 <p align="justify"> &emsp;&emsp;</p>
 
-<center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a></center>
+<center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a> e <a href="https://github.com/Brenofrds" target = "_blank">Breno Soares</a></center>
 
 <br>
 
@@ -80,7 +80,7 @@
 
 <p align="justify"> &emsp;&emsp;</p>
 
-<center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a></center>
+<center>Autor(a): <a href="https://github.com/EhOBruno" target = "_blank">Bruno Ricardo</a> e <a href="https://github.com/BrunoOLiveirax" target = "_blank">Bruno de Oliveira</a></center>
 
 ## Bibliografia
 
