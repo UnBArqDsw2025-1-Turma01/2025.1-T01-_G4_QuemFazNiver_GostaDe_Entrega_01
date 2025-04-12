@@ -1,3 +1,5 @@
+# Léxico
+
 # Introdução
 
 <p align="justify"> &emsp;&emsp;O léxico é usado para explicar termos específicos de uma área, ajudando a identificar e registrar palavras importantes em um contexto técnico ou social. Cada termo é analisado de duas formas: conceito (seu significado) e efeito (o impacto que causa no ambiente). Essa abordagem facilita o entendimento entre os envolvidos e ajuda na criação de uma base sólida para definir e avaliar requisitos.</p>
