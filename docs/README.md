@@ -45,3 +45,7 @@ Para iniciar o site localmente, utilize o comando:
 docsify serve ./docs
 ```
 
+| Versão | Data       | Descrição                                      | Autor(es)                         |
+|--------|------------|------------------------------------------------|-----------------------------------|
+| `1.0`  | 08/04/2025 | Criação da página | [Letícia Resende](https://github.com/LeticiaResende23)  |
+| `1.1`  | 09/04/2025 | Adição da descrição para entendimento do foco do projeto |[Mayara Alves](https://github.com/Mayara-tech)|
