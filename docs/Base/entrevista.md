@@ -139,3 +139,5 @@
 | `1.0`  | 10/04/2025 | Criação do artefato | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 | `1.1`  | 10/04/2025 | Adicionando vídeo da entrevista | [Letícia Resende](https://github.com/LeticiaResende23) | [Leandro de Almeida](https://github.com/leomitx10)|
 | `1.2`  | 11/04/2025 | Adicionando resposta do usuário | [Letícia Resende](https://github.com/LeticiaResende23) | [Bruno Ricardo](https://github.com/EhOBruno)|
+| `1.3`  | 11/04/2025 | Participação da entrevista | [Breno Fernandes](https://github.com/Brenofrds) | [Bruno Ricardo](https://github.com/EhOBruno)|
+
