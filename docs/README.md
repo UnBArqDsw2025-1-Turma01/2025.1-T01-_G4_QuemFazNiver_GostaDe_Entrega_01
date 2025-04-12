@@ -44,6 +44,7 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
+## Histórico de versões
 
 | Versão | Data       | Descrição                                      | Autor(es)                         |
 |--------|------------|------------------------------------------------|-----------------------------------|
