@@ -26,4 +26,5 @@
     - **1.6. Atas - Reuniões**
       - [1.6.1 Reunião 1](/atas/reuniao1.md)
       - [1.6.2 Reunião 2](/atas/reuniao2.md)
-    
+- **2. Modelagem**
+    - [Diagrama de Classes](/Modelagem/diagrama-de-classes.md)
