@@ -21,6 +21,9 @@
   - [Entrevista](Base/entrevista.md)
   - [Lexico](Base/lexico.md)
 
+- Modelagem
+  - [Diagrama De Classes](Modelagem/diagrama-de-classes.md)
+
 - Projeto
   - [Projeto](Projeto/Projeto.md)
 
