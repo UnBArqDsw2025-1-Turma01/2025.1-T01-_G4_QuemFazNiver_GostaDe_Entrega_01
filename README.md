@@ -1,6 +1,6 @@
 # RepositorioTemplate
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software..
 
 ## Introdução
 
